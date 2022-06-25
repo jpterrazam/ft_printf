@@ -1,0 +1,10 @@
+./Tester/
+./Tester2/
+*.o
+*.a
+main.c
+./libft/*.o
+./libft/*.a
+./libft/main.c
+./libft/a.out
+a.out
